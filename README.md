@@ -1,2 +1,2 @@
-# Internship-Assignments
+# Internship
 Flip Robo Internship
